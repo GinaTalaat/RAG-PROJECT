@@ -23,8 +23,3 @@ This project builds a Retrieval-Augmented Generation (RAG) system to match CVs w
 * LangChain
 * FAISS
 * Sentence Transformers
-
-## 👩‍💻 Team
-
-* Your Name
-* Your Friend Name
